@@ -1,2 +1,4 @@
 # KP-FTP-Monitoring
-Aplikasi Intern di OJK
+Aplikasi saat *Internship* di Perusahaan Otoritas Jasa Keuangan Jakarta
+
+
